@@ -3,7 +3,7 @@ backend:
   repo: omspacecode/huo-restaurant-tutorial
   branch: master
 
-media_folder: "src/img/galley"
+media_folder: "src/img/gallery"
 
 collections:
   - name: food # Used in routes, e.g., /admin/collections/blog
