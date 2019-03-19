@@ -1,12 +1,12 @@
 backend:
   name: github
-  repo: bdougie/huo-restaurant-tutorial
+  repo: omspacecode/huo-restaurant-tutorial
   branch: master
 
 media_folder: "src/img/galley"
 
 collections:
-      name: food
+    - name: food
       label: "Food item"
       folder: "site/content/food"
       create: true
