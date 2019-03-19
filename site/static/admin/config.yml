@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: omspacecode/huo-restaurant-tutorial
+  repo: omspacecode/hugo-restaurant-tutorial
   branch: master
 
 media_folder: "src/img/gallery"
